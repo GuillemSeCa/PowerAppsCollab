@@ -2,7 +2,7 @@ Screen1 As screen:
 
     Button1 As button:
         Text: ="Button"
-        X: =625
-        Y: =335
+        X: =535
+        Y: =280
         ZIndex: =1
 
